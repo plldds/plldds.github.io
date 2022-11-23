@@ -48,7 +48,7 @@ comments: false
     <div class="columns">
         <div class="column two-thirds" >
             <ol class="repo-list">
-              {% for post in site.posts %}
+              <!-- {% for post in site.posts %}
               {% if paginator.page == 1 %}
               {% if post.topmost == true %}
               <li class="repo-list-item">
@@ -72,7 +72,7 @@ comments: false
               </li>
               {% endif %}
               {% endif %}
-              {% endfor %}
+              {% endfor %} -->
 
               {% for post in paginator.posts %}
               {% if post.topmost != true %}
