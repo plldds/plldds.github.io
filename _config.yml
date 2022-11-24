@@ -27,7 +27,7 @@ components:
         hide-platforms: douban,qzone,linkedin,facebook,twitter
     # 不蒜子访问统计
     busuanzi:
-        enabled: false
+        enabled: true
         start_date: 2021-11-11
     # My Popular Repositories
     side_bar_repo:
