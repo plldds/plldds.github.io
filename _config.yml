@@ -43,7 +43,7 @@ components:
         image_alt: 破洛洛
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
-        view: cate
+        view: list
 # 压缩页面内容
 compress_html:
   clippings: all
