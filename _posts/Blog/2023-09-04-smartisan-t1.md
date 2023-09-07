@@ -23,3 +23,6 @@ keywords: Smartisan T1
 连我自己也不清楚了
 
 <video src="https://plldds.me/images/blog/bc55ba2dff955cf33fa14cedf7cd216f.mp4"></video>
+
+<iframe src="https://plldds.me/images/blog/bc55ba2dff955cf33fa14cedf7cd216f.mp4" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"  width="700px" height="472px"> </iframe>
+
