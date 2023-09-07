@@ -22,3 +22,4 @@ keywords: Smartisan T1
 
 连我自己也不清楚了
 
+<video src="/images/blog/bc55ba2dff955cf33fa14cedf7cd216f.mp4"></video>
