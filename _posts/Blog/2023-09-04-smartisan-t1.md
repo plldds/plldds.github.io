@@ -24,5 +24,5 @@ keywords: Smartisan T1
 
 <video src="https://plldds.me/images/blog/bc55ba2dff955cf33fa14cedf7cd216f.mp4"></video>
 
-<iframe height=498 width=510 src="https://plldds.me/images/blog/bc55ba2dff955cf33fa14cedf7cd216f.mp4">
+<iframe src="https://plldds.me/images/blog/bc55ba2dff955cf33fa14cedf7cd216f.mp4">
 
