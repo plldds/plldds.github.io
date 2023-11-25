@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 这些都是很好很好的，可是我偏不喜欢。
+title: 这些都是很好很好的，可是我偏不喜欢
 categories: Blog
-description: 这些都是很好很好的，可是我偏不喜欢。
+description: 这些都是很好很好的，可是我偏不喜欢
 keywords: 我偏不喜欢
 ---
 
