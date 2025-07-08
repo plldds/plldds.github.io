@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: 捐助 / Donate
 description: 随缘
@@ -18,4 +18,4 @@ permalink: /donate/
 
 ## 支付宝 / Alipay 
 
-<img style="width:256px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/alipay.jpg" alt="alipay receipt code" />
+<img style="width:256px;border:1px solid lightgrey;" src="{{ assets_base_url }}/assets/images/alipay.jpg" alt="alipay receipt code" /> -->
